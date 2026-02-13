@@ -1,0 +1,10 @@
+{
+  "name": "mercadopago-sdk-cpp",                        
+  "version": "0.1.0",                                     
+  "repo": "https://github.com/user-linux-naylor/mercadopago-sdk-cpp", 
+  "description": "Mercado Pago SDK",               
+  "keywords": ["mercadopago", "sdk", "cpp"],
+  "license": "MIT",
+
+  "install": "cmake -G Ninja -B build
+}
