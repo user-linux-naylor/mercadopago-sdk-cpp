@@ -6,5 +6,5 @@
   "keywords": ["mercadopago", "sdk", "cpp"],
   "license": "MIT",
 
-  "install": "cmake -G Ninja -B build
+  "install": "cmake -G Ninja -B build"
 }
